@@ -1,0 +1,10 @@
+yarn-error.log
+node_modules
+dist
+web
+release
+.idea
+.turbo
+bundle
+template_app
+send_app
